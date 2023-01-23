@@ -28,7 +28,7 @@ What are you waiting for? Let's coding
 ### Setup and Running app
 
 1. Use node 14.x or higher.
-2. Clone this repo: $ git clone https://github.com/rolling-scopes-school/alexladv-JSFE2022Q3/tree/Async-Race-API/async-race.
+2. Clone this repo: $ git clone https://github.com/AlexLadv/async-race.
 3. Go to downloaded folder: $ cd async-race.
 4. Install dependencies: $ npm install.
 5. Start server: $ npm run start.
